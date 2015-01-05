@@ -28,4 +28,10 @@ NameError: name 'INT' is not defined
 >>> 
 >>> 5 + 6
 11
+>>> 4 + 6
+>>> import sys
+>>> sys.version
+'2.7.6 (default, Sep  9 2014, 15:04:36) \n[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.39)]'
+>>> sys.version_info
+sys.version_info(major=2, minor=7, micro=6, releaselevel='final', serial=0)
 >>> 
