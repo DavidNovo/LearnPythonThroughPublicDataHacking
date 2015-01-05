@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="12">
+
+		<time>11:02 PM</time>
+
+
+		<bus>
+			<id>4028</id>    
+			<rt>12</rt>
+			<rtdd>12</rtdd>
+			
+			<d>South Bound</d>
+			<dd>Westbound</dd>
+			<dn>S</dn>
+			<lat>41.867565</lat>
+			<lon>-87.62420166666666</lon>
+			<pid>7471</pid>
+			<pd>Westbound</pd>
+			<run>K251</run>
+			<fs>Central/Harrison</fs>
+			<op>54055</op>
+			<dip>1721</dip>
+			<bid>8812084</bid>
+			<wid1>0K</wid1>
+			<wid2>251</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4016</id>    
+			<rt>12</rt>
+			<rtdd>12</rtdd>
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd>
+			<dn>E</dn>
+			<lat>41.865867684104224</lat>
+			<lon>-87.74438656893643</lon>
+			<pid>4135</pid>
+			<pd>Eastbound</pd>
+			<run>K255</run>
+			<fs>15th/Indiana</fs>
+			<op>56520</op>
+			<dip>8222</dip>
+			<bid>8812087</bid>
+			<wid1>0K</wid1>
+			<wid2>255</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4046</id>    
+			<rt>12</rt>
+			<rtdd>12</rtdd>
+			
+			<d>East Bound</d>
+			<dd>Eastbound</dd>
+			<dn>E</dn>
+			<lat>41.86665838736075</lat>
+			<lon>-87.67558514630353</lon>
+			<pid>4135</pid>
+			<pd>Eastbound</pd>
+			<run>K254</run>
+			<fs>15th/Indiana</fs>
+			<op>53298</op>
+			<dip>28182</dip>
+			<bid>8812088</bid>
+			<wid1>0K</wid1>
+			<wid2>254</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4204</id>    
+			<rt>12</rt>
+			<rtdd>12</rtdd>
+			
+			<d>West Bound</d>
+			<dd>Westbound</dd>
+			<dn>W</dn>
+			<lat>41.87285333333333</lat>
+			<lon>-87.764875</lon>
+			<pid>7471</pid>
+			<pd>Westbound</pd>
+			<run>K252</run>
+			<fs>Central/Harrison</fs>
+			<op>53153</op>
+			<dip>43256</dip>
+			<bid>8812090</bid>
+			<wid1>0K</wid1>
+			<wid2>252</wid2>            	
+		</bus>
+
+
+
+	</buses>
